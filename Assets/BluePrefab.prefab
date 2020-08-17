@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 8620054285864845987}
   - component: {fileID: 8177253883141873437}
   m_Layer: 0
-  m_Name: Blue Sphere
+  m_Name: BluePrefab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
